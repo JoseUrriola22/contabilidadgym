@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636024861972",
+    "project_id": "transacgym",
+    "storage_bucket": "transacgym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636024861972:android:377a47defa0a7f3b6bfe01",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-pkxY8V6RwlMh71BXQUaPtDKSSExghzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636024861972:android:565b78d1c190e5cc6bfe01",
+        "android_client_info": {
+          "package_name": "com.example.inv_upg1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-pkxY8V6RwlMh71BXQUaPtDKSSExghzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

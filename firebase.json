@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "transacgym",
+          "appId": "1:636024861972:android:377a47defa0a7f3b6bfe01",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "transacgym",
+          "configurations": {
+            "android": "1:636024861972:android:377a47defa0a7f3b6bfe01",
+            "ios": "1:636024861972:ios:3f9b029bbe7986c66bfe01",
+            "macos": "1:636024861972:ios:3f9b029bbe7986c66bfe01",
+            "web": "1:636024861972:web:14ecc26ab5382d816bfe01",
+            "windows": "1:636024861972:web:51ecaa167e487b876bfe01"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        
+      ]
+    }
+  ]
+}

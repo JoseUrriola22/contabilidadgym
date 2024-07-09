@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Flutter (SM S918B)",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
